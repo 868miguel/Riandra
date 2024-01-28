@@ -6,24 +6,15 @@
     <title>Will You Be My Valentine?</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            background-color: #ffdbdb; /* Light red, you can choose another color */
             text-align: center;
-            margin: 50px;
-        }
-
-        h1 {
-            color: #e6005c;
-        }
-
-        p {
-            font-size: 18px;
-            color: #333;
+            padding: 50px;
+            font-family: 'Arial', sans-serif;
         }
 
         img {
             max-width: 100%;
-            height: auto;
-            border-radius: 10px;
+            border-radius: 10px; /* Add a border-radius for a nice touch */
             margin-top: 20px;
         }
     </style>
@@ -31,9 +22,9 @@
 <body>
     <h1>Will You Be My Valentine?</h1>
     <p>Dear [Riandra Maraj],</p>
-    <p>On this special day, I want to ask you a question that means the world to me... even after all we have been through together </p>
-    <p>Will you be my Valentine?</p>
-    <img src="https://drive.google.com/file/d/1VoSXzoSpD72PNJtofdH9jPfC7kmieThH/view?usp=drivesdk" alt="Image of you and your girlfriend">
-    <p>I hope to create many more wonderful memories with you. Please say yes!</p>
+    <p>I cherish every moment with you and would love for you to be my Valentine even after all we have been through . Pigeon. </p>
+    <p>Love always, [Miguel Guevara]</p>
+
+    <img src="https://drive.google.com/file/d/1VoSXzoSpD72PNJtofdH9jPfC7kmieThH/view?usp=drivesdk" alt="You and Your Girlfriend">
 </body>
 </html>
