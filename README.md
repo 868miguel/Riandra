@@ -33,7 +33,7 @@
     <p>Dear [Riandra Maraj],</p>
     <p>On this special day, I want to ask you a question that means the world to me...even after what happened </p>
     <p>Will you be my Valentine?</p>
-    <img src="[(https://share.icloud.com/photos/0682IsyGDqIbBOxylyEANhXSA)]" alt="Image of you and your girlfriend">
+    <img src="[https://share.icloud.com/photos/0682IsyGDqIbBOxylyEANhXSA]" alt="Image of you and your girlfriend">
     <p>I hope to create many more wonderful memories with you. Please say yes!</p>
 </body>
 </html>
